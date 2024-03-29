@@ -24,7 +24,7 @@ I tested each feature as I developed them and conducted a comprehensive test at 
 
 ### My Performance
 
-I am quite satisfied with the final result, as I managed to accomplish everything proposed by the challenge. However, there is always room for improvement. If I were to continue working on this project, I would add:
+I am quite satisfied with the final result. However, there is always room for improvement. If I were to continue working on this project, I would add:
 
 - Stage selection
 - New logic for complex matches and power-ups
